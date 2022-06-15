@@ -1,0 +1,12 @@
+
+.home-container {
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-container h1 {
+    font-weight: bold;
+    text-align: center;
+    color: #252726;
+}
